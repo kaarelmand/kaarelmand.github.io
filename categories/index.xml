@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/categories/</link>
+      <atom:link href="https://kaarelmand.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://kaarelmand.github.io/categories/</link>
+    </image>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://kaarelmand.github.io/categories/publication/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/categories/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://kaarelmand.github.io/categories/presentation/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

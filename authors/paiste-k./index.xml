@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paiste, K. | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/authors/paiste-k./</link>
+      <atom:link href="https://kaarelmand.github.io/authors/paiste-k./index.xml" rel="self" type="application/rss+xml" />
+    <description>Paiste, K.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/img/icon-192.png</url>
+      <title>Paiste, K.</title>
+      <link>https://kaarelmand.github.io/authors/paiste-k./</link>
+    </image>
+    
+    <item>
+      <title>Oxygenated oceans persisted after the Lomagundi Event: Evidence from the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple sulphur isotope records tracking basinal and global processes in the 1.98 Ga Zaonega Formation, NW Russia</title>
+      <link>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High molybdenum abundance in the 2 Ga Zaonega Formation: Implications for seawater following the Lomagundi Excursion</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

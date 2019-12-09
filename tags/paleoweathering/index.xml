@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paleoweathering | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/tags/paleoweathering/</link>
+      <atom:link href="https://kaarelmand.github.io/tags/paleoweathering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paleoweathering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/img/icon-192.png</url>
+      <title>Paleoweathering</title>
+      <link>https://kaarelmand.github.io/tags/paleoweathering/</link>
+    </image>
+    
+    <item>
+      <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

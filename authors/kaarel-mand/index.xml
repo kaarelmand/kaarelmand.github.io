@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/authors/kaarel-mand/</link>
+      <atom:link href="https://kaarelmand.github.io/authors/kaarel-mand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaarel Mänd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2015 14:00:00 +0700</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/img/icon-192.png</url>
+      <title>Kaarel Mänd</title>
+      <link>https://kaarelmand.github.io/authors/kaarel-mand/</link>
+    </image>
+    
+    <item>
+      <title>Apatitic micronodules in Namibian shelf sediments: Mineralized microbes or diagenetic precipitates?</title>
+      <link>https://kaarelmand.github.io/talk/goldschmidt/</link>
+      <pubDate>Sun, 16 Aug 2015 14:00:00 +0700</pubDate>
+      <guid>https://kaarelmand.github.io/talk/goldschmidt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
