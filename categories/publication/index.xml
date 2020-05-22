@@ -5,12 +5,28 @@
     <link>https://kaarelmand.github.io/categories/publication/</link>
       <atom:link href="https://kaarelmand.github.io/categories/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kaarelmand.github.io/img/icon-192.png</url>
       <title>Publication</title>
       <link>https://kaarelmand.github.io/categories/publication/</link>
     </image>
+    
+    <item>
+      <title>New Constraints on the Onset Age of the Emeishan LIP Volcanism and Implications for the Guadalupian Mass Extinction</title>
+      <link>https://kaarelmand.github.io/publication/yan-2020-newconstraintsonset/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/yan-2020-newconstraintsonset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palaeoproterozoic Oxygenated Oceans Following the Lomagundi–Jatuli Event</title>
+      <link>https://kaarelmand.github.io/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>REE&#43;Y uptake and diagenesis in Recent sedimentary apatites</title>
@@ -25,6 +41,14 @@
       <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace Metals</title>
+      <link>https://kaarelmand.github.io/publication/robbins-2019-trace-metals/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/robbins-2019-trace-metals/</guid>
       <description></description>
     </item>
     
