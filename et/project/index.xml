@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/project/</link>
+      <atom:link href="https://kaarelmand.github.io/et/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><lastBuildDate>Mon, 18 Nov 2019 20:24:11 +0200</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://kaarelmand.github.io/et/project/</link>
+    </image>
+    
+    <item>
+      <title>Redokstingimused Proterosoikumis</title>
+      <link>https://kaarelmand.github.io/et/project/paleoproterozoic/</link>
+      <pubDate>Mon, 18 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/paleoproterozoic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jälgmetallide geokeemia</title>
+      <link>https://kaarelmand.github.io/et/project/tracemetal/</link>
+      <pubDate>Mon, 11 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/tracemetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fosfogenees</title>
+      <link>https://kaarelmand.github.io/et/project/phosphogenesis/</link>
+      <pubDate>Sun, 10 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/phosphogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merevaigu geokeemia</title>
+      <link>https://kaarelmand.github.io/et/project/amber/</link>
+      <pubDate>Sat, 09 Nov 2019 20:46:59 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/amber/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

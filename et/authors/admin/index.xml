@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/authors/admin/</link>
+      <atom:link href="https://kaarelmand.github.io/et/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaarel Mänd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language>
+    <image>
+      <url>https://kaarelmand.github.io/et/authors/admin/avatar_hude61b1ba77b4531a1d6ab6c3bcdd992b_708491_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Kaarel Mänd</title>
+      <link>https://kaarelmand.github.io/et/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
