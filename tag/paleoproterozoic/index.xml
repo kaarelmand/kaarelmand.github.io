@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paleoproterozoic | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/tag/paleoproterozoic/</link>
+      <atom:link href="https://kaarelmand.github.io/tag/paleoproterozoic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paleoproterozoic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Paleoproterozoic</title>
+      <link>https://kaarelmand.github.io/tag/paleoproterozoic/</link>
+    </image>
+    
+    <item>
+      <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple sulphur isotope records tracking basinal and global processes in the 1.98 Ga Zaonega Formation, NW Russia</title>
+      <link>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

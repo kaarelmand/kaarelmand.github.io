@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah J. Planavsky | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/author/noah-j.-planavsky/</link>
+      <atom:link href="https://kaarelmand.github.io/et/author/noah-j.-planavsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noah J. Planavsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Noah J. Planavsky</title>
+      <link>https://kaarelmand.github.io/et/author/noah-j.-planavsky/</link>
+    </image>
+    
+    <item>
+      <title>Palaeoproterozoic Oxygenated Oceans Following the Lomagundi–Jatuli Event</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace Metals</title>
+      <link>https://kaarelmand.github.io/et/publication/robbins-2019-trace-metals/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/robbins-2019-trace-metals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

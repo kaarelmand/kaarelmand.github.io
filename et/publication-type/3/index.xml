@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/publication-type/3/</link>
+      <atom:link href="https://kaarelmand.github.io/et/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://kaarelmand.github.io/et/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>High molybdenum abundance in the 2 Ga Zaonega Formation: Implications for seawater following the Lomagundi Excursion</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2018-highmolybdenumabundance/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2018-highmolybdenumabundance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphatised microstructures in ancient and modern phosphorites</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2015-phosphatisedmicrostructuresancient/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2015-phosphatisedmicrostructuresancient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

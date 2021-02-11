@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siderite | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/tag/siderite/</link>
+      <atom:link href="https://kaarelmand.github.io/tag/siderite/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siderite</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Siderite</title>
+      <link>https://kaarelmand.github.io/tag/siderite/</link>
+    </image>
+    
+    <item>
+      <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

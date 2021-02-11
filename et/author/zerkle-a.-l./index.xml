@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zerkle, A. L. | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/author/zerkle-a.-l./</link>
+      <atom:link href="https://kaarelmand.github.io/et/author/zerkle-a.-l./index.xml" rel="self" type="application/rss+xml" />
+    <description>Zerkle, A. L.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Zerkle, A. L.</title>
+      <link>https://kaarelmand.github.io/et/author/zerkle-a.-l./</link>
+    </image>
+    
+    <item>
+      <title>Multiple sulphur isotope records tracking basinal and global processes in the 1.98 Ga Zaonega Formation, NW Russia</title>
+      <link>https://kaarelmand.github.io/et/publication/paiste-2018-multiplesulphurisotope/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/paiste-2018-multiplesulphurisotope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lumiste, K. | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/author/lumiste-k./</link>
+      <atom:link href="https://kaarelmand.github.io/et/author/lumiste-k./index.xml" rel="self" type="application/rss+xml" />
+    <description>Lumiste, K.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Lumiste, K.</title>
+      <link>https://kaarelmand.github.io/et/author/lumiste-k./</link>
+    </image>
+    
+    <item>
+      <title>REE&#43;Y uptake and diagenesis in Recent sedimentary apatites</title>
+      <link>https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authigenesis of biomorphic apatite particles from Benguela Upwelling Zone sediments off Namibia: The role of organic matter in sedimentary apatite nucleation and growth</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2018-authigenesisbiomorphicapatite/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2018-authigenesisbiomorphicapatite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

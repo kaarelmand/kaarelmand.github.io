@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lalonde, S. V. | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/author/lalonde-s.-v./</link>
+      <atom:link href="https://kaarelmand.github.io/author/lalonde-s.-v./index.xml" rel="self" type="application/rss+xml" />
+    <description>Lalonde, S. V.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Lalonde, S. V.</title>
+      <link>https://kaarelmand.github.io/author/lalonde-s.-v./</link>
+    </image>
+    
+    <item>
+      <title>Oxygenated oceans persisted after the Lomagundi Event: Evidence from the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High molybdenum abundance in the 2 Ga Zaonega Formation: Implications for seawater following the Lomagundi Excursion</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace metal enrichment in 1.98 Ga black shales of the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
