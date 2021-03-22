@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iron isotopes | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/tag/iron-isotopes/</link>
+      <atom:link href="https://kaarelmand.github.io/tag/iron-isotopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>iron isotopes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>iron isotopes</title>
+      <link>https://kaarelmand.github.io/tag/iron-isotopes/</link>
+    </image>
+    
+    <item>
+      <title>Iron and carbon isotope constraints on the formation pathway of iron-rich carbonates within the Dagushan Iron Formation, North China Craton</title>
+      <link>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anja Schreiber | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/author/anja-schreiber/</link>
+      <atom:link href="https://kaarelmand.github.io/author/anja-schreiber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anja Schreiber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Anja Schreiber</title>
+      <link>https://kaarelmand.github.io/author/anja-schreiber/</link>
+    </image>
+    
+    <item>
+      <title>Authigenesis of biomorphic apatite particles from Benguela Upwelling Zone sediments off Namibia: The role of organic matter in sedimentary apatite nucleation and growth</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-authigenesisbiomorphicapatite/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-authigenesisbiomorphicapatite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential influence of sulphur bacteria on Palaeoproterozoic phosphogenesis</title>
+      <link>https://kaarelmand.github.io/publication/lepland-2014-potentialinfluencesulphur/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/lepland-2014-potentialinfluencesulphur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentation | Kaarel Mänd</title>
+    <title>presentation | Kaarel Mänd</title>
     <link>https://kaarelmand.github.io/category/presentation/</link>
       <atom:link href="https://kaarelmand.github.io/category/presentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <description>presentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Presentation</title>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>presentation</title>
       <link>https://kaarelmand.github.io/category/presentation/</link>
     </image>
     
     <item>
+      <title>The origins of biodiversity: Did changing oxygen levels in the Proterozoic induce the rise of complex life?</title>
+      <link>https://kaarelmand.github.io/publication/mand-2021-originsbiodiversity-did/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2021-originsbiodiversity-did/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cradle of complex life: Oxygen and eukaryotes 2 billion years ago</title>
+      <link>https://kaarelmand.github.io/publication/mand-2020-kaotatudparadiisja/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2020-kaotatudparadiisja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oxygenated oceans persisted after the Lomagundi Event: Evidence from the Zaonega Formation</title>
       <link>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>High molybdenum abundance in the 2 Ga Zaonega Formation: Implications for seawater following the Lomagundi Excursion</title>
+      <title>High molybdenum abundance in the ~2 Ga Zaonega Formation: Implications for seawater following the Lomagundi excursion</title>
       <link>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</guid>
@@ -31,13 +47,13 @@
     <item>
       <title>Trace metal enrichment in 1.98 Ga black shales of the Zaonega Formation</title>
       <link>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Origin of rod and dumbbell shaped phosphate precipitates in Namibian shelf sediments</title>
+      <title>Origin of rod and dumbbell shaped phosphate precipitates in Namibian Shelf sediments</title>
       <link>https://kaarelmand.github.io/publication/mand-2016-originroddumbbell/</link>
       <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2016-originroddumbbell/</guid>
@@ -45,9 +61,9 @@
     </item>
     
     <item>
-      <title>Apatitic micronodules in Namibian shelf sediments: Mineralized microbes or diagenetic precipitates?</title>
+      <title>Apatitic micronodules in Namibian Shelf sediments: Mineralized microbes or diagenetic precipitates?</title>
       <link>https://kaarelmand.github.io/publication/mand-2015-apatiticmicronodules-namibian/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2015-apatiticmicronodules-namibian/</guid>
       <description></description>
     </item>
@@ -61,10 +77,10 @@
     </item>
     
     <item>
-      <title>Mikrofossiilid maailma vanimates fosforiitides</title>
-      <link>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates/</link>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates/</guid>
+      <title>Microfossils in the world&#39;s oldest phosphorites</title>
+      <link>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates_/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates_/</guid>
       <description></description>
     </item>
     

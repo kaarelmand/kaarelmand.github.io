@@ -1,19 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication | Kaarel Mänd</title>
+    <title>publication | Kaarel Mänd</title>
     <link>https://kaarelmand.github.io/et/category/publication/</link>
       <atom:link href="https://kaarelmand.github.io/et/category/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <description>publication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication</title>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>publication</title>
       <link>https://kaarelmand.github.io/et/category/publication/</link>
     </image>
     
     <item>
-      <title>New Constraints on the Onset Age of the Emeishan LIP Volcanism and Implications for the Guadalupian Mass Extinction</title>
+      <title>Depositional and environmental constraints on the late Neoarchean Dagushan deposit (Anshan-Benxi area, North China Craton): An Algoma-type banded iron formation</title>
+      <link>https://kaarelmand.github.io/et/publication/tong-2021-depositional-environmental-constraints/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/tong-2021-depositional-environmental-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron and carbon isotope constraints on the formation pathway of iron-rich carbonates within the Dagushan Iron Formation, North China Craton</title>
+      <link>https://kaarelmand.github.io/et/publication/tong-2021-iron-carbon-isotope/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/tong-2021-iron-carbon-isotope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygenated conditions in the aftermath of the Lomagundi-Jatuli Event: The carbon isotope and rare earth element signatures of the Paleoproterozoic Zaonega Formation, Russia</title>
+      <link>https://kaarelmand.github.io/et/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying global vs. basinal controls on Paleoproterozoic organic carbon and sulfur isotope records</title>
+      <link>https://kaarelmand.github.io/et/publication/paiste-2020-identifyingglobalvs/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/paiste-2020-identifyingglobalvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrothermally induced 34S enrichment in pyrite as an alternative explanation of the Late-Devonian sulfur isotope excursion in South China</title>
+      <link>https://kaarelmand.github.io/et/publication/yan-2020-hydrothermallyinduced-34-s/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/yan-2020-hydrothermallyinduced-34-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New constraints on the onset age of the Emeishan LIP volcanism and implications for the Guadalupian mass extinction</title>
       <link>https://kaarelmand.github.io/et/publication/yan-2020-newconstraintsonset/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/et/publication/yan-2020-newconstraintsonset/</guid>
@@ -21,7 +61,7 @@
     </item>
     
     <item>
-      <title>Palaeoproterozoic Oxygenated Oceans Following the Lomagundi–Jatuli Event</title>
+      <title>Palaeoproterozoic oxygenated oceans following the Lomagundi–Jatuli Event</title>
       <link>https://kaarelmand.github.io/et/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/et/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</guid>
@@ -29,15 +69,15 @@
     </item>
     
     <item>
-      <title>Trace Metals</title>
-      <link>https://kaarelmand.github.io/et/publication/robbins-2019-trace-metals/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaarelmand.github.io/et/publication/robbins-2019-trace-metals/</guid>
+      <title>Trace metals</title>
+      <link>https://kaarelmand.github.io/et/publication/robbins-2020-trace-metals/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/robbins-2020-trace-metals/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>REE&#43;Y uptake and diagenesis in Recent sedimentary apatites</title>
+      <title>REE&#43;Y uptake and diagenesis in recent sedimentary apatites</title>
       <link>https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/</guid>
@@ -49,14 +89,6 @@
       <link>https://kaarelmand.github.io/et/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/et/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geochemical methods help resolve a long-standing debate in amber palaeontology</title>
-      <link>https://kaarelmand.github.io/et/publication/mand-2018-geochemicalmethodshelp/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaarelmand.github.io/et/publication/mand-2018-geochemicalmethodshelp/</guid>
       <description></description>
     </item>
     
@@ -85,10 +117,18 @@
     </item>
     
     <item>
+      <title>Geochemical methods help resolve a long-standing debate in amber palaeontology</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2018-geochemicalmethodshelp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2018-geochemicalmethodshelp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mikrofossiilid maailma vanimates fosforiitides</title>
-      <link>https://kaarelmand.github.io/et/publication/mand-2014-microfossilsworldoldest/</link>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://kaarelmand.github.io/et/publication/mand-2014-microfossilsworldoldest/</guid>
+      <link>https://kaarelmand.github.io/et/publication/mand-2014-mikrofossiilidmaailmavanimates/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2014-mikrofossiilidmaailmavanimates/</guid>
       <description></description>
     </item>
     

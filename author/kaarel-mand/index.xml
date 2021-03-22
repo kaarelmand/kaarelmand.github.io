@@ -5,15 +5,71 @@
     <link>https://kaarelmand.github.io/author/kaarel-mand/</link>
       <atom:link href="https://kaarelmand.github.io/author/kaarel-mand/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaarel Mänd</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Kaarel Mänd</title>
       <link>https://kaarelmand.github.io/author/kaarel-mand/</link>
     </image>
     
     <item>
-      <title>New Constraints on the Onset Age of the Emeishan LIP Volcanism and Implications for the Guadalupian Mass Extinction</title>
+      <title>Depositional and environmental constraints on the late Neoarchean Dagushan deposit (Anshan-Benxi area, North China Craton): An Algoma-type banded iron formation</title>
+      <link>https://kaarelmand.github.io/publication/tong-2021-depositional-environmental-constraints/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/tong-2021-depositional-environmental-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The origins of biodiversity: Did changing oxygen levels in the Proterozoic induce the rise of complex life?</title>
+      <link>https://kaarelmand.github.io/publication/mand-2021-originsbiodiversity-did/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2021-originsbiodiversity-did/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron and carbon isotope constraints on the formation pathway of iron-rich carbonates within the Dagushan Iron Formation, North China Craton</title>
+      <link>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cradle of complex life: Oxygen and eukaryotes 2 billion years ago</title>
+      <link>https://kaarelmand.github.io/publication/mand-2020-kaotatudparadiisja/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2020-kaotatudparadiisja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygenated conditions in the aftermath of the Lomagundi-Jatuli Event: The carbon isotope and rare earth element signatures of the Paleoproterozoic Zaonega Formation, Russia</title>
+      <link>https://kaarelmand.github.io/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying global vs. basinal controls on Paleoproterozoic organic carbon and sulfur isotope records</title>
+      <link>https://kaarelmand.github.io/publication/paiste-2020-identifyingglobalvs/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/paiste-2020-identifyingglobalvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrothermally induced 34S enrichment in pyrite as an alternative explanation of the Late-Devonian sulfur isotope excursion in South China</title>
+      <link>https://kaarelmand.github.io/publication/yan-2020-hydrothermallyinduced-34-s/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/yan-2020-hydrothermallyinduced-34-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New constraints on the onset age of the Emeishan LIP volcanism and implications for the Guadalupian mass extinction</title>
       <link>https://kaarelmand.github.io/publication/yan-2020-newconstraintsonset/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/yan-2020-newconstraintsonset/</guid>
@@ -21,7 +77,7 @@
     </item>
     
     <item>
-      <title>Palaeoproterozoic Oxygenated Oceans Following the Lomagundi–Jatuli Event</title>
+      <title>Palaeoproterozoic oxygenated oceans following the Lomagundi–Jatuli Event</title>
       <link>https://kaarelmand.github.io/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</guid>
@@ -29,10 +85,98 @@
     </item>
     
     <item>
-      <title>Trace Metals</title>
-      <link>https://kaarelmand.github.io/publication/robbins-2019-trace-metals/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaarelmand.github.io/publication/robbins-2019-trace-metals/</guid>
+      <title>Trace metals</title>
+      <link>https://kaarelmand.github.io/publication/robbins-2020-trace-metals/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/robbins-2020-trace-metals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REE&#43;Y uptake and diagenesis in recent sedimentary apatites</title>
+      <link>https://kaarelmand.github.io/publication/lumiste-2019-re-euptakediagenesis/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/lumiste-2019-re-euptakediagenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygenated oceans persisted after the Lomagundi Event: Evidence from the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple sulphur isotope records tracking basinal and global processes in the 1.98 Ga Zaonega Formation, NW Russia</title>
+      <link>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authigenesis of biomorphic apatite particles from Benguela Upwelling Zone sediments off Namibia: The role of organic matter in sedimentary apatite nucleation and growth</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-authigenesisbiomorphicapatite/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-authigenesisbiomorphicapatite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct origins for Rovno and Baltic ambers: Evidence from carbon and hydrogen stable isotopes</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-distinctorigins-rovno/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-distinctorigins-rovno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High molybdenum abundance in the ~2 Ga Zaonega Formation: Implications for seawater following the Lomagundi excursion</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geochemical methods help resolve a long-standing debate in amber palaeontology</title>
+      <link>https://kaarelmand.github.io/publication/mand-2018-geochemicalmethodshelp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2018-geochemicalmethodshelp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace metal enrichment in 1.98 Ga black shales of the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of rod and dumbbell shaped phosphate precipitates in Namibian Shelf sediments</title>
+      <link>https://kaarelmand.github.io/publication/mand-2016-originroddumbbell/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2016-originroddumbbell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apatitic micronodules in Namibian Shelf sediments: Mineralized microbes or diagenetic precipitates?</title>
+      <link>https://kaarelmand.github.io/publication/mand-2015-apatiticmicronodules-namibian/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2015-apatiticmicronodules-namibian/</guid>
       <description></description>
     </item>
     
@@ -41,6 +185,38 @@
       <link>https://kaarelmand.github.io/talk/goldschmidt/</link>
       <pubDate>Sun, 16 Aug 2015 14:00:00 +0700</pubDate>
       <guid>https://kaarelmand.github.io/talk/goldschmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphatised microstructures in ancient and modern phosphorites</title>
+      <link>https://kaarelmand.github.io/publication/mand-2015-phosphatisedmicrostructuresancient/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2015-phosphatisedmicrostructuresancient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microfossils in the world&#39;s oldest phosphorites</title>
+      <link>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates_/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microfossils in the world&#39;s oldest phosphorites</title>
+      <link>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential influence of sulphur bacteria on Palaeoproterozoic phosphogenesis</title>
+      <link>https://kaarelmand.github.io/publication/lepland-2014-potentialinfluencesulphur/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/lepland-2014-potentialinfluencesulphur/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carbon isotopes | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/tag/carbon-isotopes/</link>
+      <atom:link href="https://kaarelmand.github.io/tag/carbon-isotopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>carbon isotopes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>carbon isotopes</title>
+      <link>https://kaarelmand.github.io/tag/carbon-isotopes/</link>
+    </image>
+    
+    <item>
+      <title>Iron and carbon isotope constraints on the formation pathway of iron-rich carbonates within the Dagushan Iron Formation, North China Craton</title>
+      <link>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygenated conditions in the aftermath of the Lomagundi-Jatuli Event: The carbon isotope and rare earth element signatures of the Paleoproterozoic Zaonega Formation, Russia</title>
+      <link>https://kaarelmand.github.io/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

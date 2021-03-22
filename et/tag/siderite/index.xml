@@ -5,12 +5,20 @@
     <link>https://kaarelmand.github.io/et/tag/siderite/</link>
       <atom:link href="https://kaarelmand.github.io/et/tag/siderite/index.xml" rel="self" type="application/rss+xml" />
     <description>Siderite</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Siderite</title>
       <link>https://kaarelmand.github.io/et/tag/siderite/</link>
     </image>
+    
+    <item>
+      <title>Iron and carbon isotope constraints on the formation pathway of iron-rich carbonates within the Dagushan Iron Formation, North China Craton</title>
+      <link>https://kaarelmand.github.io/et/publication/tong-2021-iron-carbon-isotope/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/tong-2021-iron-carbon-isotope/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
