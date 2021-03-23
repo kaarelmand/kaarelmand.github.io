@@ -5,26 +5,26 @@
     <link>https://kaarelmand.github.io/et/project/</link>
       <atom:link href="https://kaarelmand.github.io/et/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Mon, 18 Nov 2019 20:24:11 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Thu, 11 Mar 2021 20:24:11 +0200</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://kaarelmand.github.io/et/project/</link>
     </image>
     
     <item>
-      <title>Redokstingimused Proterosoikumis</title>
-      <link>https://kaarelmand.github.io/et/project/paleoproterozoic/</link>
-      <pubDate>Mon, 18 Nov 2019 20:24:11 +0200</pubDate>
-      <guid>https://kaarelmand.github.io/et/project/paleoproterozoic/</guid>
+      <title>Jälgmetallide ja toiteelementide geokeemia</title>
+      <link>https://kaarelmand.github.io/et/project/tracemetalnutrient/</link>
+      <pubDate>Thu, 11 Mar 2021 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/tracemetalnutrient/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jälgmetallide geokeemia</title>
-      <link>https://kaarelmand.github.io/et/project/tracemetal/</link>
-      <pubDate>Mon, 11 Nov 2019 20:24:11 +0200</pubDate>
-      <guid>https://kaarelmand.github.io/et/project/tracemetal/</guid>
+      <title>Redokstingimused Proterosoikumis</title>
+      <link>https://kaarelmand.github.io/et/project/redox/</link>
+      <pubDate>Mon, 18 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/redox/</guid>
       <description></description>
     </item>
     
@@ -33,6 +33,14 @@
       <link>https://kaarelmand.github.io/et/project/phosphogenesis/</link>
       <pubDate>Sun, 10 Nov 2019 20:24:11 +0200</pubDate>
       <guid>https://kaarelmand.github.io/et/project/phosphogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murenemiskeskkonnad</title>
+      <link>https://kaarelmand.github.io/et/project/weathering/</link>
+      <pubDate>Sun, 10 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/weathering/</guid>
       <description></description>
     </item>
     

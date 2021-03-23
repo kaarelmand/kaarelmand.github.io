@@ -5,12 +5,28 @@
     <link>https://kaarelmand.github.io/</link>
       <atom:link href="https://kaarelmand.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaarel Mänd</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2021 20:24:11 +0200</lastBuildDate>
     <image>
-      <url>https://kaarelmand.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_2.png</url>
       <title>Kaarel Mänd</title>
       <link>https://kaarelmand.github.io/</link>
     </image>
+    
+    <item>
+      <title>Trace metal and nutrient geochemistry</title>
+      <link>https://kaarelmand.github.io/project/tracemetalnutrients/</link>
+      <pubDate>Sat, 20 Mar 2021 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/project/tracemetalnutrients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redox through Earth history</title>
+      <link>https://kaarelmand.github.io/project/redox/</link>
+      <pubDate>Fri, 19 Mar 2021 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/project/redox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Depositional and environmental constraints on the late Neoarchean Dagushan deposit (Anshan-Benxi area, North China Craton): An Algoma-type banded iron formation</title>
@@ -61,7 +77,7 @@
     </item>
     
     <item>
-      <title>Hydrothermally induced 34S enrichment in pyrite as an alternative explanation of the Late-Devonian sulfur isotope excursion in South China</title>
+      <title>Hydrothermally induced $^{34}$S enrichment in pyrite as an alternative explanation of the Late-Devonian sulfur isotope excursion in South China</title>
       <link>https://kaarelmand.github.io/publication/yan-2020-hydrothermallyinduced-34-s/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/yan-2020-hydrothermallyinduced-34-s/</guid>
@@ -93,26 +109,18 @@
     </item>
     
     <item>
-      <title>Paleoproterozoic redox</title>
-      <link>https://kaarelmand.github.io/project/paleoproterozoic/</link>
-      <pubDate>Mon, 18 Nov 2019 20:24:11 +0200</pubDate>
-      <guid>https://kaarelmand.github.io/project/paleoproterozoic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trace metal geochemistry</title>
-      <link>https://kaarelmand.github.io/project/tracemetal/</link>
-      <pubDate>Mon, 11 Nov 2019 20:24:11 +0200</pubDate>
-      <guid>https://kaarelmand.github.io/project/tracemetal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Phosphogenesis</title>
       <link>https://kaarelmand.github.io/project/phosphogenesis/</link>
       <pubDate>Sun, 10 Nov 2019 20:24:11 +0200</pubDate>
       <guid>https://kaarelmand.github.io/project/phosphogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weathering environments</title>
+      <link>https://kaarelmand.github.io/project/weathering/</link>
+      <pubDate>Sun, 10 Nov 2019 20:24:11 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/project/weathering/</guid>
       <description></description>
     </item>
     
@@ -133,7 +141,7 @@
     </item>
     
     <item>
-      <title>High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <title>High-CO$\\_2$, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
       <link>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>

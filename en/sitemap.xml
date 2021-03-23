@@ -3,8 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaarelmand.github.io/</loc>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kaarelmand.github.io/project/</loc>
+    <lastmod>2021-03-20T20:24:11+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kaarelmand.github.io/project/tracemetalnutrients/</loc>
+    <lastmod>2021-03-20T20:24:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaarelmand.github.io/project/redox/</loc>
+    <lastmod>2021-03-19T20:24:11+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/project/redox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/project/redox/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kaarelmand.github.io/publication-type/2/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -19,7 +69,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/authors/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -34,7 +84,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/categories/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -49,7 +99,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/changle-wang/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -64,7 +114,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/tong-2021-depositional-environmental-constraints/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -79,7 +129,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kaarel-mand/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -93,23 +143,8 @@
   </url>
   
   <url>
-    <loc>https://kaarelmand.github.io/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kaarelmand.github.io/author/kurt-o.-konhauser/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -124,7 +159,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/leslie-j.-robbins/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -139,7 +174,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/lianchang-zhang/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -154,7 +189,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/mingguo-zhai/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -169,7 +204,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/category/publication/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -184,7 +219,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication_types/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -198,23 +233,8 @@
   </url>
   
   <url>
-    <loc>https://kaarelmand.github.io/publication/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kaarelmand.github.io/author/qiang-ke/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -229,7 +249,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/weiduo-hao/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -244,7 +264,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/xiaoxue-tong/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -259,7 +279,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/yuhao-li/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -274,7 +294,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/zidong-peng/</loc>
-    <lastmod>2021-03-22T20:54:36+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -289,7 +309,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication-type/0/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -304,7 +324,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/category/presentation/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -319,7 +339,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2021-originsbiodiversity-did/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -334,7 +354,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/banded-iron-formation/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -349,7 +369,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/carbon-isotopes/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -364,7 +384,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/dissimilatory-iron-reduction-dir/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -379,7 +399,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/tong-2021-iron-carbon-isotope/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -394,7 +414,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/iron-isotopes/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -409,7 +429,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/north-china-craton/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -424,7 +444,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/pengbo-li/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -439,7 +459,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/qiang-wu/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -454,7 +474,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/siderite/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -469,7 +489,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tags/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -484,7 +504,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2020-kaotatudparadiisja/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -499,7 +519,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/aivo-lepland/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -514,7 +534,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/alexander-e.-romashkin/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -529,7 +549,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/anthony-prave/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -544,7 +564,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/ce-anomaly/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -559,7 +579,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/holar-sepp/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -574,7 +594,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kalle-kirsimae/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -589,7 +609,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kart-paiste/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -604,7 +624,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/lomagundi-jatuli-event/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -619,7 +639,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/michael-bau/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -634,7 +654,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/kreitsmann-2020-oxygenatedconditionsaftermath/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -649,7 +669,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/rare-earth-elements/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -664,7 +684,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/timmu-kreitsmann/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -679,7 +699,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/tonu-martma/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -694,7 +714,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/zaonega-formation/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -709,7 +729,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/anthony-r.-prave/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -724,7 +744,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/aubrey-l.-zerkle/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -739,7 +759,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/carbon-cycle/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -754,7 +774,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/dmitry-v.-rychanchik/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -769,7 +789,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/great-oxidation-event/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -784,7 +804,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/paiste-2020-identifyingglobalvs/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -799,7 +819,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/ocean-redox/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -814,7 +834,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/onega-basin/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -829,7 +849,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/paleoproterozoic/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -844,7 +864,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/sulfur-cycle/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -859,7 +879,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/daohui-pi/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -874,7 +894,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/hao-yan/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -889,7 +909,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/huan-cui/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -904,7 +924,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/yan-2020-hydrothermallyinduced-34-s/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -919,7 +939,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/in-situ-analysis/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -934,7 +954,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/late-devonian/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -949,7 +969,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/long-li/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -964,7 +984,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/mn-ores/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -979,7 +999,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/noah-j.-planavsky/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -994,7 +1014,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/positive-sulfur-isotopic-excursion/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1009,7 +1029,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/pyrite/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1024,7 +1044,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/shao-yong-jiang/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1039,7 +1059,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/south-china/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1054,7 +1074,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/dao-hui-pi/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1069,7 +1089,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/emeishan-large-igneous-province/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1084,7 +1104,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/guadalupian-mass-extinction/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1099,7 +1119,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/maokou-formation/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1114,7 +1134,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/yan-2020-newconstraintsonset/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1129,7 +1149,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/onset-age/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1144,7 +1164,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/christopher-t.-reinhard/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1159,7 +1179,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/marie-thoby/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1174,7 +1194,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2020-palaeoproterozoicoxygenatedoceans/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1189,7 +1209,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/paarn-paiste/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1204,7 +1224,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/stefan-v.-lalonde/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1219,7 +1239,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication-type/6/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1234,7 +1254,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/biosignatures/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1249,7 +1269,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/daniel-s.-alessi/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1264,7 +1284,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/leslie.-j.-robbins/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1279,7 +1299,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/metalloenzymes/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1294,7 +1314,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/oxygenation/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1309,7 +1329,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/redox-reactions/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1324,7 +1344,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/trace-metals/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1339,7 +1359,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/robbins-2020-trace-metals/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1353,53 +1373,8 @@
   </url>
   
   <url>
-    <loc>https://kaarelmand.github.io/project/paleoproterozoic/</loc>
-    <lastmod>2019-11-18T20:24:11+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/project/paleoproterozoic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/project/paleoproterozoic/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kaarelmand.github.io/project/</loc>
-    <lastmod>2019-11-18T20:24:11+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kaarelmand.github.io/project/tracemetal/</loc>
-    <lastmod>2019-11-11T20:24:11+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/project/tracemetal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/project/tracemetal/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kaarelmand.github.io/project/phosphogenesis/</loc>
-    <lastmod>2019-11-10T20:24:11+02:00</lastmod>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1413,8 +1388,23 @@
   </url>
   
   <url>
+    <loc>https://kaarelmand.github.io/project/weathering/</loc>
+    <lastmod>2019-11-10T20:24:11+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/project/weathering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/project/weathering/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kaarelmand.github.io/project/amber/</loc>
-    <lastmod>2019-11-09T20:46:59+02:00</lastmod>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1429,7 +1419,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/diagenetic-overprinting/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1444,7 +1434,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/early-diagenesis/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1459,7 +1449,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/namibian-phosphorites/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1474,7 +1464,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/ree-y/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1489,7 +1479,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/sedimentary-apatite/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1504,7 +1494,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/jake-v.-bailey/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1519,7 +1509,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kaarel-lumiste/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1534,7 +1524,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/liisa-lang/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1549,7 +1539,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/lumiste-2019-re-euptakediagenesis/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1564,7 +1554,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/acid-leaching/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1579,7 +1569,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/anoxic-atmosphere/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1594,7 +1584,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/archean/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1609,7 +1599,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/dickite-kaolinite/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1624,7 +1614,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/soomer-2019-high-co-2-acidicoxygenstarved/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1639,7 +1629,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/kuksha-volcanic-formation/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1654,7 +1644,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/paleoweathering/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1669,7 +1659,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/peeter-somelar/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1684,7 +1674,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/sigrid-soomer/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1699,7 +1689,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/steven-g.-driese/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1714,7 +1704,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication-type/1/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1729,7 +1719,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/chris-t.-reinhard/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1744,7 +1734,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2019-oxygenatedoceanspersisted/</loc>
-    <lastmod>2021-03-22T22:43:27+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1759,7 +1749,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/fiona-mclean/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1774,7 +1764,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/gareth-izon/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1789,7 +1779,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/paiste-2018-multiplesulphurisotope/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1804,7 +1794,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/neel-k.-patel/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1819,7 +1809,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/sulphur-cycle/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1834,7 +1824,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/thi-h.-bui/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1849,7 +1839,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/anja-schreiber/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1864,7 +1854,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2018-authigenesisbiomorphicapatite/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1879,7 +1869,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/chris-h.-crosby/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1894,7 +1884,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/richard-wirth/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1909,7 +1899,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/alexander-p.-wolfe/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1924,7 +1914,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2018-distinctorigins-rovno/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1939,7 +1929,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/ftir/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1954,7 +1944,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/karlis-muehlenbachs/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1969,7 +1959,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/ryan-c.-mckellar/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1984,7 +1974,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/stable-isotope-geochemistry/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -1999,7 +1989,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/ukrainian-amber/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2014,7 +2004,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/%CE%B4c/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2029,7 +2019,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/%CE%B4d/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2044,7 +2034,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/%CE%B4h/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2059,7 +2049,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2018-highmolybdenumabundance/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2074,7 +2064,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2018-geochemicalmethodshelp/</loc>
-    <lastmod>2021-03-02T14:24:19+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2089,7 +2079,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kart-upraus/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2104,7 +2094,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2017-tracemetalenrichment/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2119,7 +2109,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2016-originroddumbbell/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2134,7 +2124,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2015-apatiticmicronodules-namibian/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2149,7 +2139,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/talk/goldschmidt/</loc>
-    <lastmod>2015-08-16T14:00:00+07:00</lastmod>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2163,23 +2153,8 @@
   </url>
   
   <url>
-    <loc>https://kaarelmand.github.io/talk/</loc>
-    <lastmod>2015-08-16T14:00:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kaarelmand.github.io/publication/mand-2015-phosphatisedmicrostructuresancient/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2194,7 +2169,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates_/</loc>
-    <lastmod>2021-03-22T22:43:26+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2209,7 +2184,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/adam-p.-martin/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2224,7 +2199,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/alenka-e.-crne/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2239,7 +2214,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/anthony-e.-fallick/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2254,7 +2229,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/biomineralization/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2269,7 +2244,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/lauri-joosu/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2284,7 +2259,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/mark-a.-van-zuilen/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2299,7 +2274,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/metanotrophs/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2314,7 +2289,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/microbes/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2329,7 +2304,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/microfossils/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2344,7 +2319,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/mand-2014-mikrofossiilidmaailmavanimates/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2359,7 +2334,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/nick-m.-w.-roberts/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2374,7 +2349,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/phosphate/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2389,7 +2364,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/phosphogenesis/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2404,7 +2379,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/phosphorite/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2419,7 +2394,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/publication/lepland-2014-potentialinfluencesulphur/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2434,7 +2409,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/shungite/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2449,7 +2424,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/tag/sulphur-bacteria/</loc>
-    <lastmod>2021-03-02T14:24:18+02:00</lastmod>
+    <lastmod>2021-03-22T23:19:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2464,6 +2439,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/author/kaarel-mand/</loc>
+    <lastmod>2021-02-12T00:32:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2478,6 +2454,7 @@
   
   <url>
     <loc>https://kaarelmand.github.io/post/</loc>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2487,6 +2464,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kaarelmand.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kaarelmand.github.io/talk/</loc>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kaarelmand.github.io/publication/</loc>
+    <lastmod>2020-05-23T11:05:11-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/publication/"
                 />
   </url>
   
