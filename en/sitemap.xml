@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kaarelmand.github.io/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -30,6 +30,16 @@
   </url><url>
     <loc>https://kaarelmand.github.io/project/tracemetalnutrients/</loc>
     <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/project/tracemetalnutrients/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/project/tracemetalnutrients/"
+                />
   </url><url>
     <loc>https://kaarelmand.github.io/project/redox/</loc>
     <lastmod>2021-03-23T18:07:02+02:00</lastmod>
@@ -58,7 +68,7 @@
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/authors/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"
@@ -2112,7 +2122,7 @@
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/author/kaarel-mand/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="et"

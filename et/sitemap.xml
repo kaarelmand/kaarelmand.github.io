@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/et/authors/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/et/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -236,8 +236,18 @@
                 href="https://kaarelmand.github.io/et/author/zidong-peng/"
                 />
   </url><url>
-    <loc>https://kaarelmand.github.io/et/project/tracemetalnutrient/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <loc>https://kaarelmand.github.io/et/project/tracemetalnutrients/</loc>
+    <lastmod>2021-03-11T20:24:11+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/project/tracemetalnutrients/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/project/tracemetalnutrients/"
+                />
   </url><url>
     <loc>https://kaarelmand.github.io/et/project/</loc>
     <lastmod>2021-03-23T18:07:02+02:00</lastmod>
@@ -1227,6 +1237,9 @@
                 href="https://kaarelmand.github.io/et/project/amber/"
                 />
   </url><url>
+    <loc>https://kaarelmand.github.io/et/category/merevaik/</loc>
+    <lastmod>2020-05-23T14:38:10-06:00</lastmod>
+  </url><url>
     <loc>https://kaarelmand.github.io/et/tag/diagenetic-overprinting/</loc>
     <lastmod>2021-03-23T18:07:02+02:00</lastmod>
     <xhtml:link
@@ -1251,45 +1264,6 @@
                 rel="alternate"
                 hreflang="et"
                 href="https://kaarelmand.github.io/et/tag/early-diagenesis/"
-                />
-  </url><url>
-    <loc>https://kaarelmand.github.io/et/tag/namibian-phosphorites/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/tag/namibian-phosphorites/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/tag/namibian-phosphorites/"
-                />
-  </url><url>
-    <loc>https://kaarelmand.github.io/et/tag/ree-y/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/tag/ree-y/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/tag/ree-y/"
-                />
-  </url><url>
-    <loc>https://kaarelmand.github.io/et/tag/sedimentary-apatite/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaarelmand.github.io/tag/sedimentary-apatite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://kaarelmand.github.io/et/tag/sedimentary-apatite/"
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/et/author/jake-v.-bailey/</loc>
@@ -1331,6 +1305,32 @@
                 href="https://kaarelmand.github.io/et/author/liisa-lang/"
                 />
   </url><url>
+    <loc>https://kaarelmand.github.io/et/tag/namibian-phosphorites/</loc>
+    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/tag/namibian-phosphorites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/tag/namibian-phosphorites/"
+                />
+  </url><url>
+    <loc>https://kaarelmand.github.io/et/tag/ree-y/</loc>
+    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/tag/ree-y/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/tag/ree-y/"
+                />
+  </url><url>
     <loc>https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/</loc>
     <lastmod>2021-03-23T18:07:02+02:00</lastmod>
     <xhtml:link
@@ -1342,6 +1342,19 @@
                 rel="alternate"
                 hreflang="et"
                 href="https://kaarelmand.github.io/et/publication/lumiste-2019-re-euptakediagenesis/"
+                />
+  </url><url>
+    <loc>https://kaarelmand.github.io/et/tag/sedimentary-apatite/</loc>
+    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaarelmand.github.io/tag/sedimentary-apatite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://kaarelmand.github.io/et/tag/sedimentary-apatite/"
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/et/tag/acid-leaching/</loc>
@@ -2112,7 +2125,7 @@
                 />
   </url><url>
     <loc>https://kaarelmand.github.io/et/author/kaarel-mand/</loc>
-    <lastmod>2021-03-23T18:07:02+02:00</lastmod>
+    <lastmod>2021-03-29T00:00:24+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Merevaik | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/category/merevaik/</link>
+      <atom:link href="https://kaarelmand.github.io/et/category/merevaik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Merevaik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Sat, 09 Nov 2019 20:46:59 +0200</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_2.png</url>
+      <title>Merevaik</title>
+      <link>https://kaarelmand.github.io/et/category/merevaik/</link>
+    </image>
+    
+    <item>
+      <title>Merevaigu geokeemia</title>
+      <link>https://kaarelmand.github.io/et/project/amber/</link>
+      <pubDate>Sat, 09 Nov 2019 20:46:59 +0200</pubDate>
+      <guid>https://kaarelmand.github.io/et/project/amber/</guid>
+      <description>&lt;p&gt;Merevaigulademete tekketingimuste uurimine stabiilsete isotoopide suhete ja sprektraalanalüüsi abil.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
