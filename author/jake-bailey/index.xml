@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jake Bailey | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/author/jake-bailey/</link>
+      <atom:link href="https://kaarelmand.github.io/author/jake-bailey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jake Bailey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_2.png</url>
+      <title>Jake Bailey</title>
+      <link>https://kaarelmand.github.io/author/jake-bailey/</link>
+    </image>
+    
+    <item>
+      <title>Constraining the conditions of phosphogenesis: Stable isotope and trace element systematics of Recent Namibian phosphatic sediments</title>
+      <link>https://kaarelmand.github.io/publication/lumiste-2021-constrainingconditionsphosphogenesis/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/publication/lumiste-2021-constrainingconditionsphosphogenesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
