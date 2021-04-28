@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Van Zuilen | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/author/mark-van-zuilen/</link>
+      <atom:link href="https://kaarelmand.github.io/et/author/mark-van-zuilen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Van Zuilen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Van Zuilen</title>
+      <link>https://kaarelmand.github.io/et/author/mark-van-zuilen/</link>
+    </image>
+    
+    <item>
+      <title>Trace Elemental Partitioning on Clays Derived from Hydrothermal Muds of the El Tatio Geyser Field, Chile</title>
+      <link>https://kaarelmand.github.io/et/publication/hao-2021-traceelementalpartitioning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/hao-2021-traceelementalpartitioning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
