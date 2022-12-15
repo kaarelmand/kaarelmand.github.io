@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris T. Reinhard | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/authors/chris-t.-reinhard/</link>
+      <atom:link href="https://kaarelmand.github.io/et/authors/chris-t.-reinhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris T. Reinhard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_3.png</url>
+      <title>Chris T. Reinhard</title>
+      <link>https://kaarelmand.github.io/et/authors/chris-t.-reinhard/</link>
+    </image>
+    
+    <item>
+      <title>Oxygenated oceans persisted after the Lomagundi Event: Evidence from the Zaonega Formation</title>
+      <link>https://kaarelmand.github.io/et/publication/mand-2019-oxygenatedoceanspersisted/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/mand-2019-oxygenatedoceanspersisted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

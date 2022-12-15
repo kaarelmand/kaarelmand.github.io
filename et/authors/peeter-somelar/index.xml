@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peeter Somelar | Kaarel Mänd</title>
+    <link>https://kaarelmand.github.io/et/authors/peeter-somelar/</link>
+      <atom:link href="https://kaarelmand.github.io/et/authors/peeter-somelar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peeter Somelar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaarelmand.github.io/media/icon_hua4343d9cb2b9f34ce300c87e206f5462_17171_512x512_fill_lanczos_center_3.png</url>
+      <title>Peeter Somelar</title>
+      <link>https://kaarelmand.github.io/et/authors/peeter-somelar/</link>
+    </image>
+    
+    <item>
+      <title>The Kaolinite Shuttle Links the Great Oxidation and Lomagundi Events</title>
+      <link>https://kaarelmand.github.io/et/publication/hao-2021-kaoliniteshuttlelinks/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/hao-2021-kaoliniteshuttlelinks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-CO$\\_2$, acidic and oxygen-starved weathering at the Fennoscandian Shield at the Archean-Proterozoic transition</title>
+      <link>https://kaarelmand.github.io/et/publication/soomer-2019-high-co-2-acidicoxygenstarved/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/soomer-2019-high-co-2-acidicoxygenstarved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential influence of sulphur bacteria on Palaeoproterozoic phosphogenesis</title>
+      <link>https://kaarelmand.github.io/et/publication/lepland-2014-potentialinfluencesulphur/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kaarelmand.github.io/et/publication/lepland-2014-potentialinfluencesulphur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
